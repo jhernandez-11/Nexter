@@ -48,6 +48,7 @@ body {
 }
 
 .container {
+    background-color: #fff;
     display: grid;
     grid-template-rows: 80vh min-content 40vw repeat(3, min-content); 
     grid-template-columns: [sidebar-start] 8rem [sidebar-end full-start] 
